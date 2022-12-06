@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">simran_c0870768_MT</string>
+    <string-array name="cars">
+        <item>BMW</item>
+        <item>Mercedes</item>
+        <item>KIA</item>
+        <item>Ford</item>
+        <item>Toyota</item>
+        <item>Nissan</item>
+        <item>Hyundai</item>
+
+    </string-array>
+</resources>
